@@ -16,4 +16,5 @@ Currently pursuing a Bachelor's Degree in Computer Science
 I'm always open to collaborating on group projects and learning from others. Feel free to reach out if you have an idea for a project that you think I could contribute to!
 
 🌱 What I'm Learning Now
+
 Currently, I'm focusing on improving my skills in React. I'm also learning about cloud computing and serverless architecture.
