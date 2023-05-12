@@ -14,6 +14,6 @@ Currently pursuing a Bachelor's Degree in Computer Science
 
 I'm always open to collaborating on group projects and learning from others. Feel free to reach out if you have an idea for a project that you think I could contribute to!
 
-🌱 What I'm Learning Now
+### 🌱 What I'm Learning Now
 
 I'm actively learning more about Django, particularly on building APIs with Django REST framework.
