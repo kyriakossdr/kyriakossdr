@@ -1,4 +1,4 @@
-## 😀 About Me
+## About Me
 
 Hi there! I'm an undergraduate student studying Computer Science with a passion for web development. I have experience working with HTML, CSS, JavaScript, Python, Django and React. I'm always looking for opportunities to learn and grow as a developer.
 
